@@ -1,0 +1,15 @@
+{
+  "repository": "module-planned-liberu-platform-orchestration-081c1f70-dart-mobile",
+  "capabilityKey": "planned:liberu:platform-orchestration",
+  "presentation": "dart-mobile",
+  "package": "module_planned_liberu_platform_orchestration_081c1f70_dart_mobile",
+  "foundation": "module-boilerplate-dart-mobile",
+  "foundationCommit": "0656c212b36ef4f8ffd6fc74db4ac541268e7d31",
+  "canonicalPlan": "projects/liberu/nextjs/platform-orchestration.md",
+  "presentationPlan": "projects/liberu/features/platform-orchestration.md",
+  "identityReviewRequired": true,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "liberu"
+  ]
+}
